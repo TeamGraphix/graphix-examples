@@ -1,5 +1,6 @@
 name: py38
 dependencies:
   - python=3.8
+  - matplotlib
   - pip:
     - graphix==0.1.2
