@@ -1,0 +1,4 @@
+name: py38
+dependencies:
+  - python=3.8
+  - graphix
