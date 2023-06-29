@@ -4,4 +4,4 @@ dependencies:
   - matplotlib
   - pip:
     - graphix==0.2.3
-    - graphix-ibmq==0.0.1
+    - graphix-ibmq==0.0.2
