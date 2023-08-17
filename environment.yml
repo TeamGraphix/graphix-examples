@@ -2,6 +2,8 @@ name: py38
 dependencies:
   - python=3.8
   - matplotlib
+  - seaborn
   - pip:
     - graphix==0.2.5
     - graphix-ibmq==0.0.3
+    - scikit-learn
