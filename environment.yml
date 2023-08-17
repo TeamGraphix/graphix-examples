@@ -3,5 +3,5 @@ dependencies:
   - python=3.8
   - matplotlib
   - pip:
-    - graphix==0.2.4
-    - graphix-ibmq==0.0.2
+    - graphix==0.2.5
+    - graphix-ibmq==0.0.3
