@@ -1,6 +1,6 @@
-name: py39
+name: py310
 dependencies:
-  - python=3.9
+  - python=3.10
   - matplotlib
   - seaborn
   - pip:
