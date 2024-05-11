@@ -4,7 +4,7 @@ dependencies:
   - matplotlib
   - seaborn
   - pip:
-    - graphix==0.2.12
+    - graphix==0.2.14
     - graphix-ibmq==0.0.3
     - graphix-perceval
     - scikit-learn
